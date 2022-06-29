@@ -37,14 +37,12 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['27634090203','']
-global.premium = ['27634090203','918188019676']
-global.botname = 'ZIM BOT INC'
-global.ownername = 'DRIPS'
-global.group1 = 'https://chat.whatsapp.com/EFsb8RCXV4jLEFk4eAcA1A'
-global.group2 = 'https://chat.whatsapp.com/HSfcYU13g5C8GxINWwSWoA'
-global.packname = 'ZIM BOT INC'
-global.ytchannel = 'https://youtu.be/ww4z2m3uORU'
+global.owner = ['994408465157','447441437150']
+global.premium = ['994408465157','447441437150']
+global.botname = 'AryBotz-MD'
+global.ownername ='Ayangnya Caa-!!'
+global.packname = 'AryBotz-MD'
+global.quoted = 'https://youtube.com/c/AryBotz'
 global.monayawal = '100000'
 global.darahawal = '100'
 global.besiAwal = '15'
@@ -52,12 +50,6 @@ global.goldAwal = '10'
 global.emeraldAwal = '5'
 global.umpanAwal = '5'
 global.potionAwal = '1'
-global.dripstyping = false
-global.dripsreadgroup = false
-global.dripsreadall = false
-global.dripsrecord = false
-global.available = false
-global.unavailable = true
 global.limittot = 100,
 global.f1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
 global.f2 = 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet'
@@ -65,7 +57,7 @@ global.f3 = 'application/vnd.openxmlformats-officedocument.wordprocessingml.docu
 global.f4 = 'application/zip'
 global.f5 = 'application/pdf'
 global.f6 = 'application/vnd.android.package-archive'
-global.author = 'ZIM BOT INC'
+global.author = 'AryBotz-MD'
 global.flaming = 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=amped-logo&doScale=true&scaleWidth=800&scaleHeight=500&text='
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
@@ -73,8 +65,7 @@ global.sp = '⭔'
 global.mess = {
     success: '*success whoa*',
         ban: '*Sorry, looks like u got banned😔😔 type .owner To request unban okay*',
-    horny: '*nsfw is disabled please ask owner to enable it*',
-    admin: '*this cmd is for admin only , l can feel you but sorry okay*',
+    admin: '*this cmd is for bot owner only , l can feel you but sorry okay*',
     botAdmin: '*with due respect can you please give bot adminship*',
     owner: '*this cmd is for bot owner only , l can feel you but sorry okay*',
     group: '*this feature is only for groups okay*',
